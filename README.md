@@ -1,2 +1,2 @@
-# neural_networks-mlp
-contains neural network progress
+# neural_networks_fork
+contains current work flow
